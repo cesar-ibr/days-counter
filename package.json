@@ -1,0 +1,32 @@
+{
+  "name": "days-counter",
+  "version": "1.0.0",
+  "description": "Simple web app to keep the tracking of the days without some event occurs.",
+  "main": "src/main.tsx",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "counter",
+    "days",
+    "without",
+    "event",
+    "accident"
+  ],
+  "author": "cesar.sanchezibr@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.9.5",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.23",
+    "@types/react-dom": "^16.9.5",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.2",
+    "typescript": "^3.8.3"
+  }
+}
