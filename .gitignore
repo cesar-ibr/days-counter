@@ -1,5 +1,5 @@
 node_modules
 dist
 .cache
-.firebase.js
+firebase.config.ts
 .DS_Store
